@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.8.0](https://github.com/mesosphere/d2iq-daggers/compare/v0.7.0...v0.8.0) (2024-04-25)
+
+
+### Features
+
+* Use go 1.22 by default ([#145](https://github.com/mesosphere/d2iq-daggers/issues/145)) ([95d84c6](https://github.com/mesosphere/d2iq-daggers/commit/95d84c6214c6c1758b7339aa3e00d182e922b5d2))
+
+## Changelog
+
 <!-- Release notes generated using configuration in .github/release.yaml at main -->
 
 ## What's Changed
